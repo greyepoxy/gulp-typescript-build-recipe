@@ -1,0 +1,25 @@
+{
+  "name": "gulp-typescript-build-recipe",
+  "version": "1.0.0",
+  "description": "gulp typescript build recipe.",
+  "main": "dist/example.js",
+  "typings": "dist/example.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "typescript",
+    "build",
+    "recipe"
+  ],
+  "author": "greyepoxy",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-typescript": "^2.10.0",
+    "merge2": "^1.0.0",
+    "path": "^0.12.7",
+    "require-dir": "^0.3.0"
+  }
+}

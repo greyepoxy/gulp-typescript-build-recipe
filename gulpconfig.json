@@ -1,0 +1,7 @@
+{
+	"typescript-build": {
+		"taskName":"build",
+		"watchTaskName":"autoBuild",
+		"outDir": "./dist"
+	}
+}
