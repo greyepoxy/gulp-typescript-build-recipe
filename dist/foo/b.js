@@ -13,3 +13,5 @@ class BImpl {
         return this._b;
     }
 }
+
+//# sourceMappingURL=b.js.map

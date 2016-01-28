@@ -3,5 +3,9 @@
 		"target": "es6",
 		"module": "commonjs",
 		"noImplicitAny": true
-	}
+	},
+	"exclude": [
+		"node_modules",
+		"dist"
+	]
 }

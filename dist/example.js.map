@@ -1,0 +1,1 @@
+{"version":3,"sources":["example.ts"],"names":[],"mappings":"AAAA,kBAAsB,SAAS,CAAC,CAAA;AAErB,SAAC,GAAK,QAAI,EAAE,CAAC;AACxB,SAAC,CAAC,EAAE,EAAE,CAAC","file":"example.js","sourcesContent":["import {GetA, A} from './foo/a';\r\n\r\nexport let a:A = GetA();\r\na.do();\r\n"],"sourceRoot":"/source/"}
